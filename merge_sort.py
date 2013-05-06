@@ -1,3 +1,5 @@
+# Author: Krems
+
 # insertion sort is faster then merge sort on extremely small sizes
 def insertion_sort(a, lhs, rhs):
     if lhs >= rhs:
